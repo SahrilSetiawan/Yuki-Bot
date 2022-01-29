@@ -1,7 +1,7 @@
 {
-  "name": "KurrXd",
+  "name": "Shril",
   "version": "0.0.1",
-  "description": "KurrXd",
+  "description": "Shril",
   "main": "node index",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "KurrXd",
+  "author": "Shril",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
